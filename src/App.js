@@ -127,7 +127,7 @@ function App() {
           <input
             type="text"
             className="album-input"
-            placeholder="Enter album title"
+            placeholder="Enter album name"
             value={newAlbumTitle}
             onChange={(e) => setNewAlbumTitle(e.target.value)}
           />
