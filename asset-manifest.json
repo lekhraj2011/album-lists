@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lekhraj2011/album-lists.git/static/css/main.f41cbb23.css",
+    "main.js": "/lekhraj2011/album-lists.git/static/js/main.758cfbc7.js",
+    "static/js/787.19c0b4e0.chunk.js": "/lekhraj2011/album-lists.git/static/js/787.19c0b4e0.chunk.js",
+    "index.html": "/lekhraj2011/album-lists.git/index.html",
+    "main.f41cbb23.css.map": "/lekhraj2011/album-lists.git/static/css/main.f41cbb23.css.map",
+    "main.758cfbc7.js.map": "/lekhraj2011/album-lists.git/static/js/main.758cfbc7.js.map",
+    "787.19c0b4e0.chunk.js.map": "/lekhraj2011/album-lists.git/static/js/787.19c0b4e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f41cbb23.css",
+    "static/js/main.758cfbc7.js"
+  ]
+}
